@@ -1,4 +1,4 @@
-//2073. Time Needed To Buy Tickets
+/* 2073. Time Needed To Buy Tickets */
 
 #include <math.h>
 class Solution {
